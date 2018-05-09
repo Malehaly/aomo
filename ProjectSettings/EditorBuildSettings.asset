@@ -17,9 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RTS Engine/Maps/Demo Map/DemoMap.unity
     guid: b5a49016d08b2fe4eae32b39b69058ef
-  - enabled: 1
-    path: Assets/Aomo/scenes/single1.unity
-    guid: 66dc27a60a616614ab87880238adf8fc
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Aomo/scenes/cena1.unity
     guid: ca247cd5fc56974498fd62cd1c54aa2e
